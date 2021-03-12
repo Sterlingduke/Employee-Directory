@@ -2,6 +2,7 @@ import React from "react";
 
 function Search() {
   return (
+  
     <div className="input-group">
       <div className="form-outline">
         <input type="search" id="form1" className="form-control" />
