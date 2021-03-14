@@ -1,0 +1,9 @@
+.card{
+    background-color: aquamarine;
+    border-color: rgb(31, 54, 47);
+    border-radius: 10px;
+    height:200px;
+    position:;
+    width:300px;
+    align-items:flex-start;
+}
